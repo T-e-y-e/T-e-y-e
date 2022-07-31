@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Teye</h1>
-<h3 align="center">A passionate frontend developer from Nigeria</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=t-e-y-e&label=Profile%20views&color=0e75b6&style=flat" alt="t-e-y-e" /> </p>
+<h3 align="center">I am a self-motivated and solution-oriented frontend developer from Nigeria.</h3>
 
 <p align="left"> <a href="https://twitter.com/ty_dev1" target="blank"><img src="https://img.shields.io/twitter/follow/ty_dev1?logo=twitter&style=for-the-badge" alt="ty_dev1" /></a> </p>
 
@@ -21,5 +19,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=t-e-y-e&show_icons=true&locale=en&layout=compact" alt="t-e-y-e" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=t-e-y-e&show_icons=true&locale=en" alt="t-e-y-e" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=t-e-y-e&" alt="t-e-y-e" /></p>
