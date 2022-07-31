@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Teye</h1>
 <h3 align="center">I am a self-motivated and solution-oriented frontend developer from Nigeria.</h3>
 
-<p align="left"> <a href="https://twitter.com/ty_dev1" target="blank"><img src="https://img.shields.io/twitter/follow/ty_dev1?logo=twitter&style=for-the-badge" alt="ty_dev1" /></a> </p>
-
 - 💬 Ask me about **react, Vue**
 
 - 📫 How to reach me **teyeetukudo@gmail.com**
@@ -19,3 +17,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=t-e-y-e&show_icons=true&locale=en&layout=compact" alt="t-e-y-e" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=t-e-y-e&show_icons=true&locale=en" alt="t-e-y-e" /></p>
+
+<p align="left"> <a href="https://twitter.com/ty_dev1" target="blank"><img src="https://img.shields.io/twitter/follow/ty_dev1?logo=twitter&style=for-the-badge" alt="ty_dev1" /></a> </p>
