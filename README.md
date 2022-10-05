@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Teye</h1>
-<h3 align="center">I am a self-motivated and solution-oriented frontend developer from Nigeria.</h3>
+<h3 align="center">I am a self-motivated and solution-oriented Software Developer from Nigeria.</h3>
 
 - 💬 Ask me about **react, Vue**
 
